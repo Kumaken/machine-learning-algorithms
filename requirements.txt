@@ -7,7 +7,7 @@ backcall==0.1.0
 bleach==3.1.0
 cairocffi==1.1.0
 CairoSVG==2.4.2
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 clipspy==0.3.2
